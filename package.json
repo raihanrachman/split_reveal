@@ -1,0 +1,19 @@
+{
+  "name": "splitting-animation",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "core-js": "^3.8.3",
+    "gsap": "^3.6.1",
+    "locomotive-scroll": "^4.1.1",
+    "nuxt": "^2.14.12",
+    "splitting": "^1.0.6"
+  },
+  "devDependencies": {}
+}
